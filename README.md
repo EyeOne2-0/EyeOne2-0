@@ -18,4 +18,3 @@ I am actively seeking opportunities to:
 
 ## 📫 How to Reach Me
 Feel free to contact me via [GitHub](https://github.com/EyeOne2-0) or [LinkedIn](https://www.linkedin.com/in/ayoub-laroussi-5b20b02a0/).
-Mail Address : ayoublaroussipro@gmail.com

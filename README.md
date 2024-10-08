@@ -5,7 +5,7 @@ I'm a passionate **Web Developer** in training, with a deep interest in both **W
 
 ## 🌱 What I'm Learning
 - **HTML/CSS**: Building responsive and well-structured websites.
-- **JavaScript**: Adding interactivity and dynamic elements to the web (**React JS**, **Tree.js**).
+- **JavaScript**: Adding interactivity and dynamic elements to the web (**Vue JS*, **Tree.js**).
 - **PHP & MySQL**: Exploring server-side development and databases.
 - **Game Development**: Creating simple games using **C#** (Unity) and **Lua** (Roblox).
 - **Version Control (Git)**: Managing and tracking changes in my projects (**Git**, **GitHub CLI**, **Git Flow**).
